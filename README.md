@@ -1,4 +1,4 @@
-# CISC-121-work
+# Project for CISC 121
 Toronto BikeShare Network
 
 The final project for CISC 121 -first year python course.
